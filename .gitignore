@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Streamlit cache
+.streamlit/
+
+# PyTorch cache and checkpoints
+*.pt
+*.pth
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python packaging artifacts
+build/
+dist/
+*.egg-info/
